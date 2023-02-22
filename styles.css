@@ -14,11 +14,15 @@ p{
 }
 
 .mainlist{
-    background-size: 100px;
-    background-color: #f2cfc4;
-    border: solid;
-    border-color: #bfbfbf;
-    
+    background: #f2cfc4;
+    padding: 12px;
+}
+
+.buttonstyle{
+    background: #f2cfc4;
+    padding: 20px;
+    border: 2px solid;
+    margin: 5px;
 }
 
 a:link { 
